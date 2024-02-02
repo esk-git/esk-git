@@ -1,5 +1,8 @@
-### Hi there 👋
+### Привет, меня зовут Евгений!
+---
+Я начинающий **Python** разработчик.
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=esk-git)
 <!--
 **esk-git/esk-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
