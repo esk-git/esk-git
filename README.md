@@ -2,6 +2,8 @@
 ---
 Я начинающий **Python** разработчик.
 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-EvgeniiKalikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/es-first) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:eskalikov@gmail.com)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=esk-git)
 <!--
 **esk-git/esk-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
