@@ -2,7 +2,7 @@
 ---
 Я начинающий **Python** разработчик. У меня есть опыт работы с Python, Django, DjangoREST, Flask и FastAPI. Открыт для сотрудничества!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/es_first) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:eskalikov@ya.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/es_first) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:eskalikov@ya.ru)
 
 ---
 #### 💻 Технологии:
